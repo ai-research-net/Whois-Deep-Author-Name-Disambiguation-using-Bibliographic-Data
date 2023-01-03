@@ -5,7 +5,7 @@
 ## Documents
 [**Paper**](https://doi.org/10.1007/978-3-031-16802-4_16) -Best Paper Award @ TPDL2022\
 [**Preprint**](https://doi.org/10.48550/arXiv.2207.04772)\
-[**Slides**](https://doi.org/10.5281/zenodo.7105498) \
+[**Slides**](https://doi.org/10.5281/zenodo.7105498)\
 
 ## Cite the paper
 
