@@ -1,6 +1,8 @@
 # WhoIs
 
-##Dataset Preparation
+## Dataset Preparation
+Run this script until End to create the training task for the next untrained model that refers to the name with the next highest number of authors sharing that name. The script checks in Training/Tasks/ whether the task exists. If it does it moves to the next one and if not it creates a task. If you delete the tast of an already trained model, thr data preprocessing script create a task for that model again. 
+
 
 
 
